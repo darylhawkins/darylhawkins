@@ -1,16 +1,15 @@
-## Hi there 👋
+## Daryl Hawkins | Linux SysAdmin & Cybersecurity
 
-<!--
-**darylhawkins/darylhawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate specializing in Linux server administration 
+and security hardening.
 
-Here are some ideas to get you started:
+**Current Stack:** Ubuntu · Nginx · MySQL · PHP · Bash · UFW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- Linux server setup, hardening, and administration
+- LEMP stack deployment and configuration
+- Bash scripting and automation
+- Vulnerability management
+- Network security auditing
+
+📍 Thailand &nbsp;|&nbsp; 🌐 Available for remote work
