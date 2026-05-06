@@ -1,31 +1,35 @@
 # Hi, I'm Daryl Hawkins 👋
 
-Cybersecurity graduate specializing in Linux server administration,
-security hardening, and automation. Based in Thailand, available for remote work.
+Cybersecurity graduate and US Air Force veteran with hands-on experience in
+vulnerability management, threat hunting, and SOC operations. Also specializing
+in Linux server administration and automation. Open to remote work.
 
-## 🖥️ What I Do
+## 🔐 What I Do
 
-- **Linux Server Administration** — VPS setup, hardening, and ongoing management
-- **LEMP Stack Deployment** — Nginx, MySQL, PHP on Ubuntu from scratch
+- **Vulnerability Management** — Tenable scans, CVSS prioritization, DISA STIG, PowerShell remediation
+- **Threat Hunting & SOC** — Microsoft Sentinel, KQL, Defender for Endpoint, IOC analysis
 - **Security Hardening** — SSH config, UFW, fail2ban, auditd, sysctl hardening
+- **Linux Server Administration** — VPS setup, hardening, and ongoing management
 - **Automation** — Ansible playbooks, bash scripting, systemd services and timers
-- **Storage Management** — LVM, disk partitioning, NFS, backup and recovery
-- **Cybersecurity** — Vulnerability management, threat hunting, security operations
+- **Infrastructure** — LEMP stack, LVM, NFS, backup and recovery
 
 ## 🔧 Current Stack
 
+![Security](https://img.shields.io/badge/Security-Analyst-red)
+![Tenable](https://img.shields.io/badge/Tenable-Vulnerability_Management-00A1E0)
+![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-SIEM-0078D4?logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-blue)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_22.04-orange)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell&logoColor=white)
 
 ## 📂 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [🖥️ Linux SysAdmin Portfolio](https://github.com/darylhawkins/linux-sysadmin-portfolio) | Phase 1 & 2 — Production server administration on a live Hetzner VPS. Scripts, systemd units, Ansible playbooks, and security configs. |
-| [🔐 Cybersecurity Portfolio](https://github.com/darylhawkins/cybersecurity-portfolio) | Vulnerability management and threat hunting projects |
+| [🔐 Vulnerability Management Program](https://github.com/darylhawkins/vulnerability-management-program) | End-to-end VM program using Tenable on Azure — policy creation, CAB process, 4 remediation rounds, 80% vulnerability reduction |
+| [🔍 Threat Hunting — TOR Traffic](https://github.com/darylhawkins/threat-hunting-scenario-tor) | Threat hunting exercise using Microsoft Sentinel, Defender for Endpoint, and KQL for IOC detection |
+| [🖥️ Linux SysAdmin Portfolio](https://github.com/darylhawkins/linux-sysadmin-portfolio) | Phase 1 & 2 — Live Hetzner VPS with nginx, Ansible, systemd, LVM, and security hardening |
 
-## 📍 Thailand &nbsp;|&nbsp; 🌐 Open to Remote Work
+## 📍 Open to Remote Work &nbsp;|&nbsp; 🌐 US Citizen &nbsp;|&nbsp; Veteran
